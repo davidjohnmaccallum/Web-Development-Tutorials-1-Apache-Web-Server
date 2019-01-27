@@ -1,0 +1,10 @@
+.product-container {
+    display: flex;
+    flex-direction: column;
+}
+.product-list-item {
+    min-width: 390px;
+}
+.product-list-item img {
+    height: 86px;
+}

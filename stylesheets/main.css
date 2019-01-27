@@ -1,0 +1,36 @@
+body {
+    font-family: 'Titillium Web', sans-serif;
+}
+h1 a {
+    color: black;
+    text-decoration: none;
+}
+.top-nav li {
+    list-style-type: none;
+    display: inline;
+}
+.top-nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 1em;
+}
+.top-nav {
+    background-color: gray;
+    padding: 1em;
+}
+.showcase-image img {
+    margin: auto;
+    display: block;
+}
+.feature-container {
+    display: flex;
+    justify-content: space-between;
+}
+.feature {
+    min-width: 390px;
+}
+.feature img {
+    height: 86px;
+    display: block;
+    margin: auto;
+}
