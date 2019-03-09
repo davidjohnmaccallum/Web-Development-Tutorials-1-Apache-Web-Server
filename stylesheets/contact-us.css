@@ -1,0 +1,21 @@
+.contact-us-container {
+    margin: 30px;
+}
+
+.contact-us-container form div {
+    margin: 5px;
+}
+
+.contact-us-container form label {
+    display: inline-block;
+    width: 120px;
+}
+
+.contact-us-container form input[type="text"] {    
+    width: 250px;
+}
+
+.contact-us-container form textarea {    
+    width: 250px;
+    height: 200px;
+}
